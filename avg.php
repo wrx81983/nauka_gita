@@ -2,7 +2,6 @@
 
 function srednia (a,b)
 
-
-	return (a+b)/3
+	return (a+b)/2
 
 ?>
